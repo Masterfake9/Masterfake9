@@ -8,11 +8,9 @@
 
 ---
 
-### About me
-
 I'm a mechatronics engineering student interested in modern technologies like robotics, simulation, automation, control systems and artificial intelligence.
 
-I enjoy learning new things and constantly improving my skills. I'm currently building my path step by step, focusing on real knowledge and practical experience.
+I enjoy learning new things and constantly improving my skills. I'm currently building my path step by step, focusing on real knowledge and practical experience to become a top tier Engineer!.
 
 ---
 
