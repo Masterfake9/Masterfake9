@@ -27,5 +27,4 @@ I enjoy learning new things and improving my skills over time. I'm currently bui
 
   ---
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/TU-USUARIO](https://www.linkedin.com/feed/update/urn:li:activity:7475634012963885056/))
-``
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugenio-abraham-arredondo-palma-0aa0a12b0/)
