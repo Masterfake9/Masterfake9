@@ -27,8 +27,5 @@ I enjoy learning new things and improving my skills over time. I'm currently bui
 
   ---
   
-<p align="center">
-  <a href="[https://linkedin.com/in/tu-usuario](https://www.linkedin.com/feed/update/urn:li:activity:7475634012963885056/)">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/TU-USUARIO](https://www.linkedin.com/feed/update/urn:li:activity:7475634012963885056/))
+``
