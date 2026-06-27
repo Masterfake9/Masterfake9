@@ -24,5 +24,3 @@ I enjoy learning new things and improving my skills over time. I'm currently bui
 
 <p align="center">
   <i>Always learning, always improving.</i>
-</p>
-``
