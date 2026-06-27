@@ -22,12 +22,6 @@ I enjoy learning new things and improving my skills over time. I'm currently bui
 
 ---
 
-### Goals
-
-To grow as an engineer and develop real-world solutions in robotics and advanced technologies.
-
----
-
 <p align="center">
   <i>Always learning, always improving.</i>
 </p>
