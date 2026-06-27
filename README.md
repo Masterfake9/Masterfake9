@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Mechatronics student focused on robotics, automation, and continuous growth 🚀
+  Mechatronics student focused on robotics, automation, and continuous growth
 </p>
 
 ---
