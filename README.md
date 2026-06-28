@@ -27,8 +27,8 @@ I enjoy learning new things and improving my skills over time. I'm currently bui
 
   ---
   
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/eugenio-abraham-arredondo-palma-0aa0a12b0/">
-    <img src="https://cdn.produkto.io/photos/2025/04/22/linkedin-logo-2019.webp" width="80"/>
+    <img src="https://tse2.mm.bing.net/th/id/OIP.ss8sI8Yw7lVnSmeTLCRG_AHaB0?cb=thfvnextfalcon3&rs=1&pid=ImgDetMain&o=7&rm=3" height="40"/>
   </a>
 </p>
